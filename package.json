@@ -7,8 +7,8 @@
     "start": "nodemon ./src/server.js",
     "lint": "eslint ./"
   },
-  "keywords": [],
-  "author": "Tryo Asnafi",
+  "keywords": ["bookshelf-api", "submission"],
+  "author": "Tryo Asnafi <tryoasnafi@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.27.0",
